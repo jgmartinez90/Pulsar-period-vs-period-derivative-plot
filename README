@@ -1,0 +1,13 @@
+The PPdot_diagram_color.py will create a plot like PPdot_diagram_final.eps, reading the 
+textfiles that were generated from the ATNF pulsar catalog (link: https://www.atnf.csiro.au/research/pulsar/psrcat/). 
+
+The plot shows the current pulsar population spin period vs spin period derivative. Two main distinct groups slow 
+normal pulsars (isolated pulsars) and the bottom left group the recycled pulsars (mostly in binary systems). Different symbols
+show different binary systems. 
+
+How to use:
+
+Make sure to have python installed
+
+run
+python PPdot_diagram_color.py
